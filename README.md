@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=KARUNYAH&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineering%20Intelligence%20%7C%20Building%20Tomorrow's%20Systems&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=KARUNYAH&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Java%20%7C%20Python%20%7C%20DSA&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1200&color=8A63F2&center=true&vCenter=true&width=700&lines=Software+Engineer+in+the+Making;AI+%2B+Data+%2B+Full+Stack;Second+Year+%E2%86%92+Third+Year+%40+KRCE;Currently+Debugging+Life+and+Loops;Trained+on+Coffee+and+Recursion" alt="Typing SVG" />
+<a href="https://github.com/karunyah3">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1200&color=8A63F2&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Third+Year+B.Tech+IT+%40+KRCE;Java+%7C+Python+%7C+DSA;Learning+One+Project+at+a+Time;Problem+Solving+Every+Day" alt="Typing SVG" />
 </a>
 
 </div>
@@ -15,7 +15,7 @@
 <div align="center">
 
 ![](https://img.shields.io/badge/STATUS-ACTIVELY__BUILDING-8A63F2?style=for-the-badge&labelColor=0d1117)
-![](https://img.shields.io/badge/FOCUS-DSA%20%7C%20AI%20%7C%20FULLSTACK-1e293b?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/FOCUS-DSA%20%7C%20JAVA%20%7C%20PYTHON-1e293b?style=for-the-badge&labelColor=0d1117)
 ![](https://img.shields.io/badge/LOCATION-INDIA-3b82f6?style=for-the-badge&labelColor=0d1117)
 
 </div>
@@ -37,15 +37,21 @@ identity:
   name: Karunyah
   degree: B.Tech, Information Technology
   institution: K. Ramakrishnan College of Engineering (KRCE), Trichy
-  status: Second Year → Entering Third Year
+  status: Third Year
+  cgpa: 7.89 / 10
+  standing_arrears: None
+  expected_graduation: 2028
   country: India
 
 trajectory:
-  target_role: Software Engineer
-  specialization:
-    - Artificial Intelligence
-    - Data Analytics
-    - Full Stack Development
+  target_role: Software Developer
+  current_focus:
+    - Java
+    - Python
+    - Data Structures & Algorithms
+    - SQL
+    - Git & GitHub
+    - AI Fundamentals
 
 operating_principle: >
   Build in public. Ship honestly.
@@ -61,18 +67,15 @@ operating_principle: >
 ### 🎯 Current Objective
 
 **Placement-Ready Engineer**
-by Semester 7-8
 
 <br/>
 
-`[■■■■■■□□□□]` **60%**
-*DSA Foundations*
-
-`[■■■□□□□□□□]` **30%**
-*Full Stack Systems*
-
-`[■■□□□□□□□□]` **20%**
-*AI / ML Depth*
+- [x] Java
+- [x] Python
+- [x] Data Structures & Algorithms
+- [x] SQL
+- [x] Git & GitHub
+- [ ] AI Fundamentals *(in progress)*
 
 </div>
 
@@ -88,126 +91,47 @@ by Semester 7-8
 
 | Domain | What I'm Doing | Signal |
 |:---|:---|:---:|
-| **Data Structures & Algorithms** | Working through core patterns — Arrays, Prefix Sums, and building toward graphs & DP | 🟢 Active |
+| **Data Structures & Algorithms** | Working through core patterns — Arrays, Prefix Sums, and building toward more | 🟢 Active |
 | **Java** | Primary language for placement-grade problem solving | 🟢 Active |
-| **Python** | Kept warm for AI/ML experimentation | 🟢 Active |
+| **Python** | Kept active alongside Java | 🟢 Active |
 | **SQL** | Query fundamentals → relational thinking | 🟡 In Progress |
-| **Git & GitHub** | Version control as a daily habit, not an afterthought | 🟢 Active |
-| **AI Fundamentals** | Bridging classical CS with applied ML thinking | 🟡 In Progress |
-| **Machine Learning** | Early-stage, concept-first approach | 🟠 Early Stage |
-| **Data Analytics** | Understanding data before modeling it | 🟡 In Progress |
+| **Git & GitHub** | Version control as a daily habit | 🟢 Active |
+| **AI Fundamentals** | Concept-first learning | 🟡 In Progress |
 
 </div>
 
 <br/>
 
-## ◉ Learning Radar
-
-<div align="center"> 
-Java
-                      ●
-                      |
-          Python  ●   |   ● SQL
-                  \   |   /
-                   \  |  /
-  C ●───────────────ME───────────────● HTML/CSS
-                   /  |  \
-                  /   |   \
-    JavaScript ●      |      ● AI Fundamentals
-                      |
-                      ●
-                Machine Learning
-
-    ● = Active Orbit        Distance from center = Depth
-    </div>
-
-<table width="100%">
-<tr>
-<th align="center" width="25%">🟣 Core</th>
-<th align="center" width="25%">🔵 Applied</th>
-<th align="center" width="25%">⚪ Exploring</th>
-<th align="center" width="25%">⚫ Future Orbit</th>
-</tr>
-<tr valign="top">
-<td>
-
-- Java
-- Python
-- Data Structures
-- Algorithms
-
-</td>
-<td>
-
-- SQL
-- Git / GitHub
-- HTML / CSS
-- JavaScript
-
-</td>
-<td>
-
-- AI Fundamentals
-- Machine Learning
-- Data Analytics
-
-</td>
-<td>
-
-- Spring Boot
-- React
-- Deep Learning
-- Data Engineering
-- Cloud
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## ◉ AI Journey
-
-<div align="center">
-
-```mermaid
-timeline
-    title From Curiosity to Capability
-    section Foundations
-        C, HTML, CSS : First lines of code
-        Java + Python : Chosen as core languages
-    section Structured Thinking
-        DSA in Java   : Arrays → Prefix Sums → onward
-        Git & GitHub  : Version control as habit
-    section Applied AI
-        AI Fundamentals : Concepts before code
-        Machine Learning : Early experiments
-        Data Analytics   : Reading data before modeling it
-    section Horizon
-        Deep Learning   : Next frontier
-        Data Engineering: Pipelines & scale
-        Cloud           : Where it all deploys
-```
-
-</div>
-
-<br/>
-
-## ◉ Future Tech Stack
+## ◉ Tech Stack
 
 <div align="center">
 
 **Languages**
 
-![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c) ![JavaScript](https://skillicons.dev/icons?i=js) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css)
+![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js)
 
-**Tools I use today**
+**Tools**
 
 ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![MySQL](https://skillicons.dev/icons?i=mysql) ![VSCode](https://skillicons.dev/icons?i=vscode)
 
-**Where I'm heading**
+**Currently Learning**
 
-![Spring](https://skillicons.dev/icons?i=spring) ![React](https://skillicons.dev/icons?i=react) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![AWS](https://skillicons.dev/icons?i=aws)
+AI Fundamentals
+
+</div>
+
+<br/>
+
+## ◉ Current Learning Journey
+
+<div align="center">
+
+| Stage | Focus | Status |
+|:---|:---|:---:|
+| Foundations | Java, Python, HTML/CSS | Completed |
+| DSA in Java | Arrays → Prefix Sum → onward | Work in Progress |
+| Git & GitHub | Version control as a daily habit | Completed |
+| AI Fundamentals | Concept-first learning | Learning Project |
 
 </div>
 
@@ -268,28 +192,9 @@ Small-scale automation project — track dates, trigger reminders, remove the "f
 </td>
 </tr>
 
-<tr>
-<td width="50%" valign="top">
 
-### ⛑️ Smart Helmet IoT
-**`Idea`**
 
-A safety-first IoT concept — sensor-driven helmet that detects impact and alerts contacts automatically.
 
-`Status: Currently Designing`
-
-</td>
-<td width="50%" valign="top">
-
-### ❤️ Driver Heart Attack Detection System
-**`Concept`**
-
-Vitals-monitoring concept aimed at detecting cardiac distress in drivers and triggering an emergency response.
-
-`Status: Work in Progress`
-
-</td>
-</tr>
 
 <tr>
 <td width="50%" valign="top">
@@ -309,7 +214,7 @@ A concept for tracking host health and traffic patterns across a local network.
 
 An idea for using NLP to search and cluster patent documents by semantic similarity, not just keywords.
 
-`Status: Currently Designing`
+`Status: Project Idea`
 
 </td>
 </tr>
@@ -326,11 +231,41 @@ Running archive of solved problems — patterns, edge cases, and the reasoning b
 
 <br/>
 
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/karunyah3/DSA-LeetCode"><img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+## ◉ Featured Repositories
+
+<div align="center">
+
+<a href="https://github.com/karunyah3/DSA-LeetCode">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=karunyah3&repo=DSA-LeetCode&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/karunyah3/Language-Translation-Tool">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=karunyah3&repo=Language-Translation-Tool&theme=tokyonight&hide_border=true" />
+</a>
+
+<br/>
+
+<a href="https://github.com/karunyah3/AI-Resume-Analyzer">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=karunyah3&repo=AI-Resume-Analyzer&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/karunyah3/AI-Chatbot-NLP">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=karunyah3&repo=AI-Chatbot-NLP&theme=tokyonight&hide_border=true" />
+</a>
+
+<br/>
+
+<a href="https://github.com/karunyah3/javaprogram1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=karunyah3&repo=javaprogram1&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
 
 <br/>
 
@@ -340,12 +275,11 @@ Running archive of solved problems — patterns, edge cases, and the reasoning b
 
 ### 🧠 The Grind, Tracked Honestly
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="100%"/>
+<img src="https://leetcard.jacoblin.cool/karunyah__k07?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="100%"/>
 
 <br/><br/>
 
-`[■■■□□□□□□□] 30 / 300+`
-
+**~30 problems solved** (28 Easy · 2 Medium · 0 Hard)
 **Target: 300+ problems solved by 7th semester**
 
 </div>
@@ -359,97 +293,62 @@ Running archive of solved problems — patterns, edge cases, and the reasoning b
 <tr>
 <td align="center">Phase 1</td>
 <td align="center">Arrays — Foundations</td>
-<td align="center">✅ Complete</td>
+<td align="center">Completed</td>
 </tr>
 <tr>
 <td align="center">Phase 2</td>
 <td align="center">Prefix Sum</td>
-<td align="center">✅ Complete</td>
+<td align="center">Completed</td>
 </tr>
 <tr>
 <td align="center">Phase 2+</td>
 <td align="center">Two Pointers / Sliding Window</td>
-<td align="center">🟡 Upcoming</td>
+<td align="center">Work in Progress</td>
 </tr>
 <tr>
 <td align="center">Phase 3</td>
 <td align="center">Recursion & Backtracking</td>
-<td align="center">⚪ Planned</td>
+<td align="center">Project Idea</td>
 </tr>
 <tr>
 <td align="center">Phase 4</td>
 <td align="center">Trees & Graphs</td>
-<td align="center">⚪ Planned</td>
+<td align="center">Project Idea</td>
 </tr>
 <tr>
 <td align="center">Phase 5</td>
 <td align="center">Dynamic Programming</td>
-<td align="center">⚪ Planned</td>
+<td align="center">Project Idea</td>
 </tr>
 </table>
 
 <br/>
 
-## ◉ Building Tomorrow
-
-<div align="center">
-
-```mermaid
-gantt
-    title Roadmap — Semesters 5 through 8
-    dateFormat  YYYY-MM
-    axisFormat  %b '%y
-
-    section Semester 5-6
-    DSA in Java (300+ problems track)     :active, s1, 2026-07, 6M
-    SQL + Relational Thinking             :s2, 2026-08, 4M
-    Spring Boot + Full Stack Basics        :s3, 2027-01, 3M
-
-    section Semester 7
-    Flagship Full-Stack AI Project        :s4, 2027-04, 4M
-    Placement Interview Prep              :s5, 2027-04, 5M
-
-    section Semester 8
-    Final Placement Push                  :s6, 2027-09, 4M
-    Portfolio Polish                       :s7, 2027-09, 2M
-```
-
-</div>
-
-<br/>
-
-## ◉ Innovation Vault
+## ◉ Certificates & Achievements
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="33%">
 
 🏆<br/>
-**NPTEL**<br/>
-Cloud Computing
+**Certificate of Merit — First Place**<br/>
+Paper JAM, ZERONE'26 National Level Technical Symposium
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 
-🏆<br/>
-**NPTEL**<br/>
-Human Behaviour
-
-</td>
-<td align="center" width="25%">
-
-🧪<br/>
-**CodeAlpha**<br/>
-AI/NLP Internship
+📜<br/>
+**Java Full Stack Development**<br/>
+40-Hour Value Added Course
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 
-📌<br/>
-**Applied**<br/>
-Internship Programs
+🎖️<br/>
+**Certificate of Participation**<br/>
+COGNOBLAZE'25 National Level Technical Symposium
 
 </td>
 </tr>
@@ -480,16 +379,16 @@ than one polished lie.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=karunyah3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karunyah3&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=karunyah3&theme=tokyonight&hide_border=true" width="70%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karunyah3&theme=tokyo-night&hide_border=true" width="100%"/>
 
 </div>
 
@@ -499,7 +398,7 @@ than one polished lie.
 <summary><b>🏅 Trophy Case (click to expand)</b></summary>
 <br/>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=karunyah3&theme=darkhub&no-frame=true&row=2&column=4"/>
 </div>
 </details>
 
@@ -509,8 +408,10 @@ than one polished lie.
 <summary><b>🐍 Contribution Snake (click to expand)</b></summary>
 <br/>
 <div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/karunyah3/karunyah3/output/github-contribution-grid-snake-dark.svg"/>
 </div>
+
+<sub>Note: this snake animation only renders once the <code>karunyah3/karunyah3</code> repo has the snake-generation GitHub Action set up. If it looks broken, that workflow hasn't been added yet.</sub>
 </details>
 
 <br/>
@@ -519,7 +420,9 @@ than one polished lie.
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=8A63F2&style=for-the-badge&label=PROFILE+VIEWS)
+<a href="https://github.com/karunyah3">
+<img src="https://komarev.com/ghpvc/?username=karunyah3&label=Profile%20Views&color=8A63F2&style=for-the-badge" alt="Profile Views"/>
+</a>
 
 </div>
 
@@ -529,28 +432,27 @@ than one polished lie.
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/karunyah-anand-880b05338" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/YOUR_USERNAME">
+
+<a href="https://github.com/karunyah3" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="mailto:YOUR_EMAIL">
+
+<a href="mailto:karunyah26@gmail.com">
 <img src="https://img.shields.io/badge/Email-8A63F2?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://YOUR_RESUME">
-<img src="https://img.shields.io/badge/Resume-1e293b?style=for-the-badge&logo=readdotcv&logoColor=white"/>
+
+<a href="https://drive.google.com/file/d/1Bdl4FGwQHF8EUEGdxHOhmDOJB7Fir3Mo/view?usp=drivesdk" target="_blank">
+<img src="https://img.shields.io/badge/Resume-1e293b?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
 </div>
 
 <br/>
-
 <div align="center">
-<sub>Replace every <code>YOUR_USERNAME</code>, <code>YOUR_LINKEDIN</code>, <code>YOUR_EMAIL</code>, <code>YOUR_PORTFOLIO</code>, <code>YOUR_RESUME</code>, and <code>YOUR_LEETCODE_USERNAME</code> placeholder above with your real links before publishing.</sub>
+<sub>Thanks for visiting my GitHub profile. Feel free to connect or explore my projects!</sub>
 </div>
 
 <br/>
